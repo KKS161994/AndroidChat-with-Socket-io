@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/shashankgupta/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.7.0/ea871498d28a10d7c803c583b6b87fd74f4c6347/okhttp-ws-2.7.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea871498d28a10d7c803c583b6b87fd74f4c6347">
+        <dex dex="/Users/shashankgupta/AndroidStudioProjects/socket.io-android-chat/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.7.0-cfb244d34be6999f3216b0baf70c0799a6fc931d.jar" />
+    </item>
+    <item
+        jar="/Users/shashankgupta/AndroidStudioProjects/socket.io-android-chat/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/shashankgupta/AndroidStudioProjects/socket.io-android-chat/app/build/intermediates/pre-dexed/debug/classes-caa3b9972f0dd64f9b1f157b54ac110ceb9813cf.jar" />
+    </item>
+    <item
+        jar="/Users/shashankgupta/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/shashankgupta/AndroidStudioProjects/socket.io-android-chat/app/build/intermediates/pre-dexed/debug/okio-1.6.0-c5c693f87d880101826dd68956af506364323d75.jar" />
+    </item>
+    <item
+        jar="/Users/shashankgupta/AndroidStudioProjects/socket.io-android-chat/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/shashankgupta/AndroidStudioProjects/socket.io-android-chat/app/build/intermediates/pre-dexed/debug/classes-c33a039c5e8c7be16e87e63b111f8d68ce7fa54e.jar" />
+    </item>
+    <item
+        jar="/Users/shashankgupta/AndroidStudioProjects/socket.io-android-chat/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/shashankgupta/AndroidStudioProjects/socket.io-android-chat/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0-9ca549731bdcad496b657a5a342d51cd28e7167f.jar" />
+    </item>
+    <item
+        jar="/Users/shashankgupta/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.0/1477ec5caf8319ab4b51eb43553cd66aa86fdea5/okhttp-2.7.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1477ec5caf8319ab4b51eb43553cd66aa86fdea5">
+        <dex dex="/Users/shashankgupta/AndroidStudioProjects/socket.io-android-chat/app/build/intermediates/pre-dexed/debug/okhttp-2.7.0-75fe287413e138204ed16bc87a49df929f72fb08.jar" />
+    </item>
+    <item
+        jar="/Users/shashankgupta/AndroidStudioProjects/socket.io-android-chat/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/shashankgupta/AndroidStudioProjects/socket.io-android-chat/app/build/intermediates/pre-dexed/debug/classes-d437a497a163499be77810fc3292dbabaa0e57a5.jar" />
+    </item>
+    <item
+        jar="/Users/shashankgupta/.gradle/caches/modules-2/files-2.1/io.socket/socket.io-client/0.6.3/19b9fade3a6de2bdd416ee9df728cb19f6c7da1d/socket.io-client-0.6.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="19b9fade3a6de2bdd416ee9df728cb19f6c7da1d">
+        <dex dex="/Users/shashankgupta/AndroidStudioProjects/socket.io-android-chat/app/build/intermediates/pre-dexed/debug/socket.io-client-0.6.3-f9bfeb6c916cc8e0c4d106a9b642da31c5c605c9.jar" />
+    </item>
+    <item
+        jar="/Users/shashankgupta/AndroidStudioProjects/socket.io-android-chat/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/shashankgupta/AndroidStudioProjects/socket.io-android-chat/app/build/intermediates/pre-dexed/debug/classes-ebddf2c7afa1df141b95fa9855e35163c7a8a131.jar" />
+    </item>
+    <item
+        jar="/Users/shashankgupta/.gradle/caches/modules-2/files-2.1/io.socket/engine.io-client/0.6.3/e3a26ee85fffb429bac318311a8ea1d85f5b9e13/engine.io-client-0.6.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3a26ee85fffb429bac318311a8ea1d85f5b9e13">
+        <dex dex="/Users/shashankgupta/AndroidStudioProjects/socket.io-android-chat/app/build/intermediates/pre-dexed/debug/engine.io-client-0.6.3-00c984a32b4a671149040d3d636356d7de305e36.jar" />
+    </item>
+    <item
+        jar="/Users/shashankgupta/AndroidStudioProjects/socket.io-android-chat/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/shashankgupta/AndroidStudioProjects/socket.io-android-chat/app/build/intermediates/pre-dexed/debug/classes-fcf258ed9d6254320115c38087bcafcef7fc39c8.jar" />
+    </item>
+    <item
+        jar="/Users/shashankgupta/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/shashankgupta/AndroidStudioProjects/socket.io-android-chat/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0-4b376093c5290df44bd34ec2ab0773a300b7e243.jar" />
+    </item>
+
+</items>
